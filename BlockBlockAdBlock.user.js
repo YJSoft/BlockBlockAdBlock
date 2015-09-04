@@ -7,7 +7,7 @@
 // @version         2
 // @include         *
 // @run-at          document-start
-// @updateURL       https://raw.githubusercontent.com/Mechazawa/FuckFuckAdblock/master/FuckFuckAdBlock.user.js
+// @updateURL       https://raw.githubusercontent.com/YJSoft/BlockBlockAdBlock/master/BlockBlockAdBlock.user.js
 // @grant           none
 // ==/UserScript==
 
