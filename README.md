@@ -1,5 +1,6 @@
 BlockBlockAdBlock
 ===============
+(* NOTICE: It's almost same except this one will block BlockAdBlock, which is same script renamed from FuckAdBlock)
 
 A simple userscript that acts like BlockAdBlock.js but always says that no adblock was detected. Just install it and try it out at http://sitexw.fr/blockadblock/. BlockBlockAdBlock works on the current version of BlockBlockAdBlock(v3.2.0) and any version before that. [It's kinda like a trace buster buster][tracebusterbuster]
 
