@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Fuck FuckAdBlock
+// @name            Block BlockBlockAdBlock
 // @author          Mechazawa
 // @namespace       Mechazawa
 // @description     Acts like FuckAdBlock.js but always says that no adblock was detected.
@@ -13,7 +13,7 @@
 
 
 (function(window) {
-    var FuckAdBlock = function(options) {
+    var BlockAdBlock = function(options) {
         if(options !== undefined) 
             this.setOption(options);
 
@@ -26,7 +26,7 @@
         }, false);
     }
 
-    FuckAdBlock.prototype = {
+    BlockAdBlock.prototype = {
         setOption : function(options, value) {
             if(value !== undefined) {
                 var key = options;
@@ -85,5 +85,5 @@
         }
     };
 
-    window.fuckAdBlock = new FuckAdBlock();
+    window.blockAdBlock = new BlockAdBlock();
 })(window);
