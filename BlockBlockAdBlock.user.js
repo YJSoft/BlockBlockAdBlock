@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Block BlockBlockAdBlock
+// @name            Block BlockAdBlock
 // @author          Mechazawa
 // @namespace       Mechazawa
 // @description     Acts like FuckAdBlock.js but always says that no adblock was detected.
